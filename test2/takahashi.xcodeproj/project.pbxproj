@@ -7,18 +7,18 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		730DE8202B68AA0C00E8EBD9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 730DE81F2B68AA0C00E8EBD9 /* Assets.xcassets */; };
 		7365D3162B229A4300A17421 /* takahashiApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73B952E42B2296B000AFFE04 /* takahashiApp.swift */; };
 		73B952EC2B2296B100AFFE04 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 73B952EB2B2296B100AFFE04 /* Preview Assets.xcassets */; };
-		73E3B31F2B68AAA2001F7C33 /* f_f_object_112_s512_f_object_112_0bg.png in Resources */ = {isa = PBXBuildFile; fileRef = 73E3B31E2B68AAA2001F7C33 /* f_f_object_112_s512_f_object_112_0bg.png */; };
+		73E8EDFF2B68E35E009B9F52 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 73E8EDFE2B68E35E009B9F52 /* Assets.xcassets */; };
+		73E8EE012B68E377009B9F52 /* dog.png in Resources */ = {isa = PBXBuildFile; fileRef = 73E8EE002B68E377009B9F52 /* dog.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		730DE81F2B68AA0C00E8EBD9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		73B952E12B2296B000AFFE04 /* takahashi.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = takahashi.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		73B952E42B2296B000AFFE04 /* takahashiApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = takahashiApp.swift; sourceTree = "<group>"; };
 		73B952EB2B2296B100AFFE04 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		73E3B31E2B68AAA2001F7C33 /* f_f_object_112_s512_f_object_112_0bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = f_f_object_112_s512_f_object_112_0bg.png; path = ../../../Downloads/f_f_object_112_s512_f_object_112_0bg.png; sourceTree = "<group>"; };
+		73E8EDFE2B68E35E009B9F52 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = ../../takahashi3/takahashi3/Assets.xcassets; sourceTree = "<group>"; };
+		73E8EE002B68E377009B9F52 /* dog.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dog.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,8 +51,8 @@
 		73B952E32B2296B000AFFE04 /* takahashi */ = {
 			isa = PBXGroup;
 			children = (
-				73E3B31E2B68AAA2001F7C33 /* f_f_object_112_s512_f_object_112_0bg.png */,
-				730DE81F2B68AA0C00E8EBD9 /* Assets.xcassets */,
+				73E8EE002B68E377009B9F52 /* dog.png */,
+				73E8EDFE2B68E35E009B9F52 /* Assets.xcassets */,
 				73B952E42B2296B000AFFE04 /* takahashiApp.swift */,
 				73B952EA2B2296B100AFFE04 /* Preview Content */,
 			);
@@ -125,9 +125,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				730DE8202B68AA0C00E8EBD9 /* Assets.xcassets in Resources */,
+				73E8EE012B68E377009B9F52 /* dog.png in Resources */,
 				73B952EC2B2296B100AFFE04 /* Preview Assets.xcassets in Resources */,
-				73E3B31F2B68AAA2001F7C33 /* f_f_object_112_s512_f_object_112_0bg.png in Resources */,
+				73E8EDFF2B68E35E009B9F52 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
